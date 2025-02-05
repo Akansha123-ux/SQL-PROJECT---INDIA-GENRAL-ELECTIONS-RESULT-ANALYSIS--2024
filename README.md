@@ -18,9 +18,9 @@ SQL
 
 5. Total Seates won by I.N.D.I.A Alliance
 
-6.Seates won by INDIA Alliance Parties.
+ 6.Seates won by INDIA Alliance Parties.
 
-7.Add new column field in table partywise_results to get the Party Allianz as NDA, I.N.D.I.A and OTHER.
+ 7.Add new column field in table partywise_results to get the Party Allianz as NDA, I.N.D.I.A and OTHER.
 
 8. Which party alliance (NDA, I.N.D.I.A, or OTHER) won the most seats across all states?
 
